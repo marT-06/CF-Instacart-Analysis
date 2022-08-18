@@ -10,7 +10,7 @@ Instacart is an online grocery store app that is intending to increase sales. Ex
   1. products
   
   1. customers
-- [The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017)   ,accessed on 3/7/2022
+- [The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017)   , accessed on 3/7/2022
 - [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
 # Recommendations 
