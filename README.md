@@ -7,9 +7,9 @@ Instacart is an online grocery store app that is intending to increase sales.
 Exploratory analysis was performed on IC data to gather insights and propose strategies for improved customer segmentation.
 
 # Instacart Data Sets: 
-  * orders
+  1. orders
    
-  * products
+  1. products
   
   * customers
 - [The Instacart Online Grocery Shopping Dataset 2017”], Accessed from (https://www.instacart.com/datasets/grocery-shopping-2017) on 3/7/2022.
