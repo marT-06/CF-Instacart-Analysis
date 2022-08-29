@@ -26,7 +26,7 @@ Instacart is an online grocery store app that is intending to increase sales. Ex
 - New columns relevant to the needs of the analysis have been derived.
 - Data visualizations have been generated to communicate insights to stakeholders. 
 - Final report includes evidence of analysis methodology, clear answers to the questions in this brief, and recommendations for Instacart stakeholders.
-- Final report contains data citation for Instacart and customer data sets
+- Final report contains data citation for Instacart and customer data sets.
 
 # Recommendations 
 
