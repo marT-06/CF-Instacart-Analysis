@@ -4,7 +4,7 @@ This Python-based project, which is part of the CareerFoundry Data Analysis cour
 # Objective
 Instacart is an online grocery store app that is intending to increase sales. Exploratory analysis was performed on IC data to gather insights and propose strategies for improved customer segmentation.
 
-# Instacart Data Sets: 
+# Instacart Data Sets
   1. orders
    
   1. products
