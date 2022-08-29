@@ -13,7 +13,7 @@ Instacart is an online grocery store app that is intending to increase sales. Ex
 - [The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017)   , accessed on 3/7/2022
 - [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-# Steps in the Analysis 
+# The steps of the Analysis 
 
 - Analysis has been conducted using Jupyter notebooks and the Anaconda libraries manager.
 - Analysis has been conducted using Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn).
